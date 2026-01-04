@@ -1,7 +1,7 @@
 # Прошивка чипа cc2652p7 для ZigBee стика v4 
 
 ### Прошивка для стика v4 на базе модулей RF-STAR c чипом cc2652p7
-### Подробная информация на [странице Wiki](https://github.com/egony/cc2652p_cc1352p_RF-STAR/wiki) проекта.
+### О стиках v4 читайте на [странице Wiki](https://github.com/egony/cc2652p_cc1352p_RF-STAR/wiki).
 
 ***
 
